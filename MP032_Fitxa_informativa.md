@@ -50,6 +50,8 @@ El llenguatge de programació principal que usem és
 
 - Per a poder presentar-se a segona convocatòria, és necessari haver lliurat prèviament a la data d'aquest examen, totes les activitats avaluables corresponents a la UF o UFs per les que l'alumne es presenta.
 
+- Faltes d'assistència de més d'un 20% del total d'hores d'una UF té la conseqüència que l'alumne **no** podrà superar la UF en convocatòria ordinària. Si ho desitja, l'alumne es podrà presentar en segona convocatòria al Juny (cal lliurar igualment totes les activitats avaluables).
+
 ## Criteris de qualificació
 
 - Per a cada UF l'alumne obtindrà una qualificació entre 0 i 10, si lliura **totes** les activitats obligatòries i **es presenta a l'examen** (encara que no el lliuri).
