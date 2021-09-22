@@ -54,7 +54,7 @@ El llenguatge de programació principal que usem és
 
 - Si un alumne no lliura alguna de les activitats obligatòries, o no es presenta a l'examen, obtindrà una qualificació de NP (No Presentat).
 
-- Un NP en primera convocatòria (avaluació continudada durant el curs) **sí** gasta convocatòria.
+- Un NP en primera convocatòria (avaluació continuada durant el curs) **sí** gasta convocatòria.
 
 - Un NP en segona convocatòria (avaluació extraordinària al Juny) **no** gasta convocatòria.
 
