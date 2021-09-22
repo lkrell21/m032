@@ -15,12 +15,6 @@ Les UF cursades al primer curs de DAW són:
 2. UF2 - Disseny modular
 3. UF3 - Fonaments de gestió de fitxers
 
-## Llenguatge de programació
-
-El llenguatge de programació principal que usem és 
-[JAVA](https://ca.wikipedia.org/wiki/Java_(llenguatge_de_programaci%C3%B3))
-![java logo](./images/java_logo_icon.png)
-
 ## Prerequisits i recomanacions
 
 - Per a poder cursar amb èxit aquestes tres unitats formatives de segon curs (UF4, UF5 i UF6), és requeriment haver superat les UF1 i UF2 d'aquest mateix mòdul MP3, cursades a primer. És recomanable haver superat també l'UF3 d'MP03.
@@ -80,4 +74,15 @@ Les eines i recursos estaran disponibles a l'aula virtual de Moodle del centre, 
 La comunicació entre alumnat i professorat serà prioritàriament presencial a classe. De forma **complementària** es pot fer servir el _Fòrum de debat_ inclòs a l'aula virtual de Moodle.
 
 
+## Llenguatge de programació i tecnologies
+
+El llenguatge de programació principal que usem és 
+[JAVA](https://ca.wikipedia.org/wiki/Java_(llenguatge_de_programaci%C3%B3))
+
+ 
+<img src="./images/java_logo_icon.png" alt="java logo" width="200"/>
+
+Tecnologies:
+
+<img src="./images/core-java.png" alt="core java" width="200"/> <img src="./images/vscode-logo.png" alt="vscode" width="230"/>    <img src="./images/jupyter-logo.png" alt="jupyter" width="120"/>    <img src="./images/postgresql-logo.png" alt="postgres" width="150"/>
 
