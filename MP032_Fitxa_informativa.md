@@ -61,16 +61,18 @@ El llenguatge de programació principal que usem és
 - Cada activitat obligatòria i avaluable **té una data límit de lliurament**: 
 
     * Si l'alumne no lliura l'activitat abans del final del dia de la data límit, disposarà encara de **7 dies naturals** de gràcia a comptar tot seguit per a lliurar l'activitat, però **la qualificació màxima que podrà obtenir serà 5**. 
-    * Passats aquests 7 dies de gràcies, qualsevol lliurament realitzat amb posterioritat només **s'avaluarà en segona convocatòria**.
+    * Passats aquests 7 dies de gràcia, qualsevol lliurament realitzat amb posterioritat només **s'avaluarà en segona convocatòria**.
     
-    
-- El conjunt de les activitats avaluables representa el 50 % de la qualificació final de l'UF.
+   
+- El conjunt de les activitats avaluables representa el 50 % de la qualificació final de l'UF, tant en primera com en segona convocatòria.
 
-- La qualificació obtinguda a l'examen representa el 50% de la qualificació final de la UF.
+- La qualificació obtinguda a l'examen representa el 50% de la qualificació final de la UF, tant en primera com en segona convocatòria.
 
 - Per a poder superar la UF, és obligatori haver obtingut com a mínim un 5 en cada activitat avaluable.
 
 - Per a poder superar la UF, és obligatori haver obtingut com a mínim un 5 a l'examen.
+
+- Per a poder presentar-se a segona convocatòria, és necessari haver lliurat prèviament a la data d'aquest examen, totes les activitats avaluables corresponents a la UF o UFs per les que l'alumne es presenta.
 
 ## Eines i recursos
 
