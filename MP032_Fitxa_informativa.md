@@ -40,6 +40,15 @@ El llenguatge de programació principal que usem és
 - S'avaluarà l'actitud, interès i participació de l'alumne.
 - S'avaluaran les diferents activitats obligatòries i avaluables, que obtindran una qualificació i una retralimentació.
 - S'avaluaran els examens, que obindran una qualificació i una retroalimentació.
+- Si un alumne no lliura alguna de les activitats obligatòries, o no es presenta a l'examen, obtindrà una qualificació de NP (No Presentat).
+- Un NP en primera convocatòria (avaluació continuada durant el curs) **sí** gasta convocatòria.
+- Un NP en segona convocatòria (avaluació extraordinària al Juny) **no** gasta convocatòria.
+- Cada activitat obligatòria i avaluable **té una data límit de lliurament**: 
+
+    * Si l'alumne no lliura l'activitat abans del final del dia de la data límit, disposarà encara de **7 dies naturals** de gràcia a comptar tot seguit per a lliurar l'activitat, però **la qualificació màxima que podrà obtenir serà 5**. 
+    * Passats aquests 7 dies de gràcia, qualsevol lliurament realitzat amb posterioritat només **s'avaluarà en segona convocatòria**.
+
+- Per a poder presentar-se a segona convocatòria, és necessari haver lliurat prèviament a la data d'aquest examen, totes les activitats avaluables corresponents a la UF o UFs per les que l'alumne es presenta.
 
 ## Criteris de qualificació
 
@@ -50,19 +59,6 @@ El llenguatge de programació principal que usem és
     * Nivell 1: la resolució correcte implica una qualificació de 5.
     * Nivell 2: la resolució correcte implica una qualificació màxima de 7.5.
     * Nivell 3: la resolució correcte implica una qualificació màxima de 10.
-
-
-- Si un alumne no lliura alguna de les activitats obligatòries, o no es presenta a l'examen, obtindrà una qualificació de NP (No Presentat).
-
-- Un NP en primera convocatòria (avaluació continuada durant el curs) **sí** gasta convocatòria.
-
-- Un NP en segona convocatòria (avaluació extraordinària al Juny) **no** gasta convocatòria.
-
-- Cada activitat obligatòria i avaluable **té una data límit de lliurament**: 
-
-    * Si l'alumne no lliura l'activitat abans del final del dia de la data límit, disposarà encara de **7 dies naturals** de gràcia a comptar tot seguit per a lliurar l'activitat, però **la qualificació màxima que podrà obtenir serà 5**. 
-    * Passats aquests 7 dies de gràcia, qualsevol lliurament realitzat amb posterioritat només **s'avaluarà en segona convocatòria**.
-    
    
 - El conjunt de les activitats avaluables representa el 50 % de la qualificació final de l'UF, tant en primera com en segona convocatòria.
 
@@ -72,7 +68,6 @@ El llenguatge de programació principal que usem és
 
 - Per a poder superar la UF, és obligatori haver obtingut com a mínim un 5 a l'examen.
 
-- Per a poder presentar-se a segona convocatòria, és necessari haver lliurat prèviament a la data d'aquest examen, totes les activitats avaluables corresponents a la UF o UFs per les que l'alumne es presenta.
 
 ## Eines i recursos
 
