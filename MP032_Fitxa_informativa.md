@@ -17,7 +17,8 @@ Les UF cursades al primer curs de DAW són:
 
 ## Llenguatge de programació
 
-El llenguatge de programació principal que usem és [JAVA](https://ca.wikipedia.org/wiki/Java_(llenguatge_de_programaci%C3%B3)
+El llenguatge de programació principal que usem és 
+[JAVA](https://ca.wikipedia.org/wiki/Java_(llenguatge_de_programaci%C3%B3))
 ![java logo](./images/java_logo_icon.png)
 
 ## Prerequisits i recomanacions
