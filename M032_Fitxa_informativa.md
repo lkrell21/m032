@@ -33,7 +33,7 @@ Les UF cursades al primer curs de DAW són:
 
 - S'avaluarà l'actitud, interès i participació de l'alumne.
 - S'avaluaran les diferents activitats obligatòries i avaluables, que obtindran una qualificació i una retralimentació.
-- S'avaluaran els examens, que obindran una qualificació i una retroalimentació.
+- S'avaluaran els exàmens, que obindran una qualificació i una retroalimentació.
 - Si un alumne no lliura alguna de les activitats obligatòries, o no es presenta a l'examen, obtindrà una qualificació de NP (No Presentat).
 - Un NP en primera convocatòria (avaluació continuada durant el curs) **sí** gasta convocatòria.
 - Un NP en segona convocatòria (avaluació extraordinària al Juny) **no** gasta convocatòria.
@@ -84,5 +84,6 @@ El llenguatge de programació principal que usem és
 
 Tecnologies:
 
-<img src="./images/core-java.png" alt="core java" width="200"/> <img src="./images/vscode-logo.png" alt="vscode" width="230"/>    <img src="./images/jupyter-logo.png" alt="jupyter" width="120"/>    <img src="./images/postgresql-logo.png" alt="postgres" width="150"/>
+<img src="./images/core-java-logo.png" alt="core java" width="200"/> <img src="./images/vscode-logo.png" alt="vscode" width="230"/>    <img src="./images/jupyter-logo.png" alt="jupyter" width="120"/>    <img src="./images/github-logo.png" alt="github" width="140"/>
+<img src="./images/postgresql-logo.png" alt="postgres" width="150"/>
 
