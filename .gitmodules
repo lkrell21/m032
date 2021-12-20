@@ -1,0 +1,3 @@
+[submodule "uf6/jdbc-demo"]
+	path = uf6/jdbc-demo
+	url = https://github.com/orboan-daw/jdbc-demo.git
