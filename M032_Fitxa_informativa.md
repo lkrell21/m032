@@ -84,6 +84,6 @@ El llenguatge de programació principal que usem és
 
 Tecnologies:
 
-<img src="./images/core-java-logo.png" alt="core java" width="200"/> <img src="./images/vscode-logo.png" alt="vscode" width="230"/>    <img src="./images/jupyter-logo.png" alt="jupyter" width="120"/>    <img src="./images/github-logo.png" alt="github" width="140"/>
+<img src="./images/core-java-logo.png" alt="core java" width="200"/> <img src="./images/vscode-logo.png" alt="vscode" width="230"/>  <img src="./images/intellij_idea.png" alt="intellij" width="140"/>   <img src="./images/jupyter-logo.png" alt="jupyter" width="120"/>    <img src="./images/github-logo.png" alt="github" width="140"/>
 <img src="./images/postgresql-logo.png" alt="postgres" width="150"/>
 
