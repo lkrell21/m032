@@ -1,7 +1,7 @@
 # MP03 Grup 2T
 # Avaluació Inicial
 
-### Nom i cognoms:
+### Nom i cognoms: Lucas Krell
 
 1. Marca les UFs de primer d'aquest mòdul que tens superades:
 
@@ -16,7 +16,7 @@
     Resposta: 
     
     
-    -
+    - Mai
 
 
 3. Què és compilar un programa?
@@ -24,19 +24,20 @@
     Resposta:
     
     
-    -
+    - 
 
 4. Què és un llenguatge interpretat i en què es diferencia d'un llenguatge compilat?
 
     Resposta:
 
 
-    -
+    - 
 
 5. Quins llenguatges de programació has fet servir?
 
     Resposta: 
 
+    - JS, Java, HTML, CSS, Python
 
 6. Quina diferència hi ha entre un lleguatge de programació d’alt nivell i un de baix nivell?
 
@@ -99,4 +100,4 @@ public class Vehicle{
     b - 0
     c - Hi ha un error de compilació a la línia 7
     d - La línia 8 genera un error d'execució
-    e - La línia 10 genera un error d'execució
+    e - La línia 10 genera un error d'execució --> esta
