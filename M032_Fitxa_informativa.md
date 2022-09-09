@@ -67,11 +67,11 @@ Les UF cursades al primer curs de DAW són:
 
 ## Eines i recursos
 
-Les eines i recursos estaran disponibles a l'aula virtual de Moodle del centre, a l'entorn de treball en línia i a github.
+Les eines i recursos estaran disponibles a l'aula virtual de Moodle del centre, a les diverses eines en local i en línia, i a github.
 
 ## Comunicació asíncrona
 
-La comunicació entre alumnat i professorat serà prioritàriament presencial a classe. De forma **complementària** es pot fer servir el _Fòrum de debat_ inclòs a l'aula virtual de Moodle.
+La comunicació entre alumnat i professorat serà prioritàriament presencial a classe. De forma **complementària** es pot fer servir el _Fòrum de debat_ inclòs a l'aula virtual de Moodle. **No es pot fer servir correu electrònic**.
 
 
 ## Llenguatge de programació i tecnologies
